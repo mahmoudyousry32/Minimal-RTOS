@@ -19,6 +19,6 @@ tasks or threads created first by the OSthread_Sched() function implicitly have 
 - Port this RTOS to my microblaze MCU system on the Arty S7-25 FPGA board
 - Hook that board up with a TFT LCD screen and a joystick and some switches
 - Port space invaders game to my system
-- if all goes will i will plan next to port DOOM to this system by following along the book by the name of  "Game Engine Black Book: Doom" 
+- if all goes well i will plan next to port DOOM to this system by following along the book by the name of  "Game Engine Black Book: Doom" 
 
 
